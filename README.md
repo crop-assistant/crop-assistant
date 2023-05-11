@@ -1,4 +1,5 @@
 ## Offical Repository of the crop-assistant project ([home-assistant](https://www.home-assistant.io/) add-on)
+![crop-assistant](https://github.com/crop-assistant/crop-assistant/assets/133213120/913de256-c9c1-4593-800c-8b88420ed48a)
 
 ### ⚠️ note that this project is in super early development ⚠️
 
